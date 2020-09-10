@@ -1,5 +1,5 @@
 # MNIST-CNN
-CNN for MNIST data & GUI for predicting own hand written digits (0-9)
+CNN model fitted to MNIST data & GUI for predicting own hand written digits (0-9)
 
 ## Requirements:
 Python 3.7
