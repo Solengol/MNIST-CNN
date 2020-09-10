@@ -2,7 +2,7 @@ import numpy as np
 from tkinter import *
 from tkinter import messagebox 
 from PIL import ImageGrab, Image, ImageFilter, ImageOps
-from NN import *
+from cnn import *
 
 
 class Paint():
