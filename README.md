@@ -10,7 +10,7 @@ Python 3.7
 
 ## How it works:
 1) MNIST data is downloaded via Keras and preprocessed
-2) CNN model is compiled and trained on MNIST data, see nn.py for details
+2) CNN model is compiled and trained on MNIST data, see cnn.py for details
 3) Once the gui opens, draw a number between 0-9 and click 'guess' and see if it gets it right :)
 
 
